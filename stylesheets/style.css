@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+<style type="text/css">
+  body {
+	margin: 0;
+	padding: 0;
+	color:white;
+  }
+  #page {
+	width:800px;
+	height:600px;
+  }
+  #header {
+	padding-top: 0px;
+	clear: none;
+	height: 100px;
+	padding-bottom: 0px;
+  }
+  #links {
+	height: 30px;
+	padding-top: 10px;
+	padding-left: 30px;
+	background-color: #009ACD;
+	color: black;
+  }
+  #display {
+	padding-top: 10px;
+	height: 400px;
+	overflow: auto;
+  }
+  #footer {
+	padding-top: 10px;
+	padding-left: 30px;
+	background-color: #009ACD;
+	height:30px;
+	color: white;
+  }
+  A:link {
+	text-decoration: none;
+	color: black;
+  }
+  A:visited {
+	text-decoration: none;
+	color: black;
+  }
+  A:active {
+	text-decoration: none;
+	color: black;
+  }
+  A:hover {
+	text-decoration: none;
+	color: red;
+  }
+</style>

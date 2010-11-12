@@ -1,0 +1,14 @@
+#Aug 1 2009 Danny Williams <dwilliams at mymanagedpbx.com 0.4
++ Added the ability to go back up to 3 days for specific craigslist searches
+- Need to add a true search function to allow wider searches
+- Make it more modular in future releases to allow quicker functionality adding
+
+#Jul 30 2009 Danny Williams <dwilliams at mymanagedpbx.com 0.3
++ Added the ability to search jobs
+- Need to be able to go back and search jobs and gigs by date
+
+#Jul 28 2009 Danny Williams <dwilliams at mymanagedpbx.com 0.2
++ Initial release of new CraigsList Panel Version 2
++ Combination of Perl + Php + CSS for results
++ Successfully search craigslist for gigs
+- Need to add jobs
